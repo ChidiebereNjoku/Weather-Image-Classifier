@@ -8,7 +8,7 @@ High Accuracy: Leveraging DenseNet201 for transfer learning to enhance model per
 Real-time Prediction: Provides real-time predictions for uploaded images.
 SMOTE for Class Imbalance: Implements Synthetic Minority Over-sampling Technique (SMOTE) to address class imbalance, ensuring the model is well-trained across all classes.
 Data Augmentation: Uses data augmentation techniques to enhance the training dataset and improve model robustness.
-End-to-End Solution: Comprehensive workflow from image collection to full deployment as a web application  
+End-to-End Solution: Comprehensive workflow from image collection to full deployment as a web application using this url https://weatherimage.streamlit.app/  
 
 ## Importance of Face Mask Models
 Weather image detection models are crucial in various environments to ensure safety and preparedness:
@@ -21,6 +21,7 @@ Recreational Activities: Informs the public about weather conditions for outdoor
 
 ## Deployment
 The deployment process includes end-to-end implementation from image collection to full deployment, ensuring a seamless user experience.
+This webapp can be accessed at this url https://weatherimage.streamlit.app/
 
 ## Acknowledgments
 TensorFlow
