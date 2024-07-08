@@ -1,4 +1,4 @@
-# Face-Mask-Classifer
+# Weather Image Detection
 ## Description
 Weather-Image-Classifier is an advanced image classification project designed to distinguish between eight weather conditions: 'dew', 'frost', 'glaze', 'lightning', 'rain', 'rainbow', 'sandstorm', and 'snow'. This model stands out for its ability to accurately identify various weather phenomena, addressing class imbalance using SMOTE. Additionally, it offers high accuracy and robustness thanks to techniques like data augmentation and transfer learning using DenseNet201. This project is essential for weather monitoring and prediction in various environments, such as agriculture, transportation, and disaster management.
 
